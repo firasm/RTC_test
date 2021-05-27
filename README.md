@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/firasm/RTC_test/main?urlpath=lab%2Ftree%2FDemo.ipynb)
+
 # Demo instructions
 
 This is a demo repo to try out real-time collaborative editing on Jupyterlab! [I am so happy it's here!!](https://github.com/jupyterlab/jupyterlab/issues/5382).
